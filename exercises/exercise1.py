@@ -50,7 +50,7 @@ precio = 3.74
 presupuesto_disponible = 10
 
 # COMPLETAR - INICIO
-
+cantidad_a_comprar= precio/presupuesto_disponible
 # COMPLETAR - FIN
 
 assert cantidad_a_comprar == 2
@@ -64,7 +64,7 @@ Restricción: Usar el operador módulo.
 numero_incalculable = 2 ** 54 - 1
 
 # COMPLETAR - INICIO
-
+es_divisible_por_siete = numero_incalculable
 # COMPLETAR - FIN
 
 assert es_divisible_por_siete
