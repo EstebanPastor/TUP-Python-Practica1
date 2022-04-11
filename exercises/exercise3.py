@@ -3,9 +3,9 @@
 """
 Construir una expresión lógica que use TODAS las variables y cuyo resultado sea
 True si 2 personas tienen el mismo nombre pero distinta edad.
-Aclaración: Se puede utilizar and, or y not.
+Aclaración: Sepuede utilizar and, or y not.
 """
-print("-------------------Aca empieza el codigo---------------------------------")
+print("------------------Aca empieza el codigo---------------------------------")
 
 persona_01 = "Kevin"
 edad_01 = 24

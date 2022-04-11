@@ -4,7 +4,7 @@
 """
 Convertir los numeros de string a enteros y luego sumarlos.
 """
-print("-------------------Aca empieza el codigo---------------------------------")
+print("------------------Aca empieza el codigo---------------------------------")
 
 numero_01 = "123"
 numero_02 = "456"

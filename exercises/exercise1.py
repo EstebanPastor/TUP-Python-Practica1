@@ -5,7 +5,7 @@
 Calcular el área del cuadrado usando las variables disponibles.
 Restricción: Usar el operador de multiplicación
 """
-print("-------------------Aca empieza el codigo---------------------------------")
+print("------------------Aca empieza el codigo---------------------------------")
 lado_cuadrado = 5
 
 # COMPLETAR - INICIO

@@ -83,7 +83,6 @@ variable_04 = 4
 
 # COMPLETAR - INICIO
 strings_concatenados = f"{variable_01}{variable_02}{variable_03}{variable_04}"
-print(strings_concatenados)
 # COMPLETAR - FIN
 
 assert strings_concatenados == "Le pagué 2 pesos que le debía a Ezequiel, me faltan $4"
