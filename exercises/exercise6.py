@@ -41,7 +41,7 @@ lista_b = ["4", "5", "6"]
 lista_c = ["siete", "ocho", "nueve"]
 
 # COMPLETAR - INICIO
-lista_a.extend(lista_b)
+lista_a.extend(lista_b)     #consulta para profesor
 lista_a.extend(lista_c)
 listas_concatenadas_01 = lista_a
 #for element in lista_a:
